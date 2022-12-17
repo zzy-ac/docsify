@@ -13,6 +13,5 @@ yay --nodiffmenu --editmenu --nocleanmenu --editor nano --save && echo '您的ya
 
 >你管我咋调用的～  
 
-![avatar](https://zzy-pan.glitch.me/OneDrive/banner.png)
 ![avatar](https://pan.zzy-ac.top/Pictures/image_0.jpg)
 ![avatar](https://pan.zzy-ac.top/Pictures/image_1.jpg)

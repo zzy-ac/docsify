@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 - 诗集
-  - [北樱]((bei-ying.md))
+  - [北樱](bei-ying.md)
   - [茶诗](cha-si.md)
   - [高中诗作](gao-zhong-shi-zuo.md)
   - [胶州怀古](jiao-zhou-huai-gu.md)

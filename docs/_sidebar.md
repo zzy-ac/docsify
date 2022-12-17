@@ -1,8 +1,6 @@
-<!-- docs/_sidebar.md -->- 诗集<<<<<<< HEAD
+<!-- docs/_sidebar.md -->
+- 诗集
   - [北樱]((bei-ying.md))
-=======
-  - [北樱](bei-ying.md)
->>>>>>> 0c0a6125ec32e0a854465b12e30ed600fca2efd0
   - [茶诗](cha-si.md)
   - [高中诗作](gao-zhong-shi-zuo.md)
   - [胶州怀古](jiao-zhou-huai-gu.md)
@@ -19,8 +17,4 @@
   - [怨花鼓](yuan-hua-gu.md)
   - [展笺难寄](zhan-jian-nan-ji.md)
   - [昼难留](zhou-nan-liu.md)
-<<<<<<< HEAD
   - [点墨诗集](zzy-shi-ji.md)
-=======
-  - [点墨诗集](zzy-shi-ji.md)
->>>>>>> 0c0a6125ec32e0a854465b12e30ed600fca2efd0

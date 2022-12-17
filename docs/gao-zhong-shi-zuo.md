@@ -1,11 +1,5 @@
----
-uuid: ef741f90-481a-2512-5350-9758f9ebec6b
-title: 高中诗作
-date: 2020-12-13 19:37:14
-tags: 诗集
-categories: 诗词创作
-image: 
----
+
+
 <center>
 
 坠入

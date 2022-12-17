@@ -1,8 +1,4 @@
-<!-- docs/_sidebar.md -->
-
-- 诗集
-
-<<<<<<< HEAD
+<!-- docs/_sidebar.md -->- 诗集<<<<<<< HEAD
   - [北樱]((bei-ying.md))
 =======
   - [北樱](bei-ying.md)

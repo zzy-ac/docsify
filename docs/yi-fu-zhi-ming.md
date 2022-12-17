@@ -1,10 +1,3 @@
----
-uuid: 97b5270d-f007-a37f-d324-c72d3e210a84
-title: 以父之名
-date: 2021-02-20 19:50:59
-tags: 诗集
-categories: 诗词创作
----
 
 <center>
 

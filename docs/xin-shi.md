@@ -1,10 +1,3 @@
----
-uuid: 929b7d0f-50eb-e349-6f42-f67cad2bfa0f
-title: 新始
-date: 2021-02-20 19:54:01
-tags: 诗集
-categories: 诗词创作
----
 
 <center>
 

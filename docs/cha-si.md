@@ -1,9 +1,5 @@
----
-title: 茶思
-date: 2021-07-10 01:25:26
-tags: 诗集
-categories: 诗词创作
----
+
+
 <center>
 
 倾探云声招风色，
